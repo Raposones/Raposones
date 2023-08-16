@@ -1,5 +1,4 @@
 <div align="center"> 
-  <img src= "https://cdn.pixabay.com/photo/2020/12/20/21/17/city-5848267__480.jpg">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=8C1EFF&background=31003B00&width=435&lines=Perdido+no+abismo...;Entre+o+real+e+o+ideal." alt="Typing SVG" /></a>
   <p> Olá, eu sou Raphael Garcia, estudante de Ciência da Computação na Universidade Federal do Ceará. Conheço diversas linguagens de programação, mas estou atualmente estudando Python para Ciência de Dados. <br> Tento sempre expandir meus limites e alcançar o ápice. Se eu não cheguei lá, ainda não dei o meu melhor. 
 </div>
@@ -18,7 +17,6 @@
 
 ## Conhecimentos :book:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -27,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br><br>
 
