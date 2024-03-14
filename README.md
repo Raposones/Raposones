@@ -1,6 +1,6 @@
 <div align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=8C1EFF&background=31003B00&width=435&lines=Perdido+no+abismo...;Entre+o+real+e+o+ideal." alt="Typing SVG" /></a>
-  <p> Olá, eu sou Raphael Garcia, estudante de Ciência da Computação na Universidade Federal do Ceará. Conheço diversas linguagens de programação, mas estou atualmente estudando Python para Ciência de Dados. <br> Tento sempre expandir meus limites e alcançar o ápice. Se eu não cheguei lá, ainda não dei o meu melhor. 
+  <p> Olá, eu sou Raphael Garcia, estudante de Ciência da Computação na Universidade Federal do Ceará. <br> Tento sempre expandir meus limites e alcançar o ápice. Se eu não cheguei lá, ainda não dei o meu melhor. 
 </div>
 
 <br><br>
