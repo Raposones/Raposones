@@ -42,6 +42,3 @@
 
 <br><br>
 
-## Minhas contribuições :white_check_mark:
-
-![](./profile-3d-contrib/profile-night-view.svg)
